@@ -5,7 +5,7 @@ import Card from 'react-bootstrap/Card';
 const CardItem = () => {
     return (
         <Card className="Card-container">
-            <Card.Header>SDFDSF</Card.Header>
+            <Card.Header>Exemplo commit</Card.Header>
             <Card.Body>
                 <Card.Title> Card Title </Card.Title>
                 <Card.Text>
@@ -14,7 +14,6 @@ const CardItem = () => {
                 </Card.Text>
             </Card.Body>
         </Card>
-
     );
 }
 
