@@ -1,11 +1,12 @@
 .Card-container {
-    background-color: #222222;
+    background-color: #222222 !important;
+    /* background-color: rgb(147, 182, 248); */
     width: 80rem;
     margin-left: auto;
     margin-right: auto;
     margin-top: 2rem;
     text-align: center;
     justify-content: center;
-    color: white;
+    color: rgb(219, 180, 49);
     font-size: calc(10px + 1vmin);
 }
