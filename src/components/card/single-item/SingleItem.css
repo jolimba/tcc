@@ -1,0 +1,10 @@
+.Item-container {
+    background-color: #121212 !important;
+    width: 18rem !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    margin-top: 2rem !important;
+    text-align: center !important;
+    justify-content: center !important;
+    display: inline-block;
+}

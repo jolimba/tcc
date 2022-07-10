@@ -1,6 +1,6 @@
 import './App.css';
-import CardItem from './card/CardItem'
-import Menu from './navbar/Menu'
+import CardItem from './components/card/CardItem'
+import Menu from './components/navbar/Menu'
 import React from 'react'
 
 function App() {
