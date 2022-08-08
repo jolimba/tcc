@@ -2,7 +2,7 @@
 
 ## Por: 
 - João Victor de S. Castro
--
+- Yago Siqueira Costa
 -
 
 ## Projeto 'O que devo asssitir hoje?'
